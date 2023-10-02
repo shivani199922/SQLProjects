@@ -1,0 +1,232 @@
+location,spread,gdp_per_capita
+Afghanistan,0.4984,1803.987
+Armenia,15.9007,8787.58
+Azerbaijan,7.9692,15847.419
+Bahrain,46.6402,43290.705
+Bangladesh,1.1975,3523.984
+Bhutan,7.9866,8708.597
+Brunei,51.5669,71809.251
+Cambodia,0.8313,3645.07
+China,0.0698,15308.712
+Georgia,47.3843,9745.079
+Hong Kong,23.795,56054.92
+India,3.1689,6426.674
+Indonesia,2.3522,11188.744
+Iran,8.5878,19082.62
+Iraq,5.6521,15663.986
+Israel,50.2223,33132.32
+Japan,17.2174,39002.223
+Jordan,15.6706,8337.49
+Kazakhstan,7.7299,24055.588
+Kuwait,15.4942,65530.537
+Kyrgyzstan,3.1582,3393.474
+Laos,2.9084,6397.36
+Lebanon,21.7463,13367.565
+Macao,0.1155,104861.851
+Malaysia,14.4407,26808.164
+Maldives,35.4932,15183.616
+Mongolia,29.3727,11840.846
+Myanmar,1.162,5591.597
+Nepal,3.3289,2442.804
+North Korea,0,0
+Northern Cyprus,NULL,0
+Oman,8.8138,37960.709
+Pakistan,0.6797,5034.708
+Palestine,13.6908,4449.898
+Philippines,3.4763,7599.188
+Qatar,16.9264,116935.6
+Saudi Arabia,2.2729,49045.411
+Singapore,35.3906,85535.383
+South Korea,48.0637,35938.374
+Sri Lanka,3.0809,11669.077
+Syria,0.2688,0
+Taiwan,28.0199,0
+Tajikistan,0.1824,2896.913
+Thailand,6.5392,16277.671
+Timor,1.7606,6570.102
+Turkey,19.9041,25129.341
+Turkmenistan,0,16389.023
+United Arab Emirates,10.9921,67293.483
+Uzbekistan,0.7167,6253.104
+Vietnam,11.7818,6171.884
+Yemen,0.0362,1479.147
+Algeria,0.6127,13913.839
+Angola,0.2989,5819.495
+Benin,0.2138,2064.236
+Botswana,12.6073,15807.374
+Burkina Faso,0.0979,1703.102
+Burundi,0.3999,702.225
+Cameroon,0.4473,3364.926
+Cape Verde,10.6109,6222.554
+Central African Republic,0.2735,661.24
+Chad,0.0442,1768.153
+Comoros,1.031,1413.89
+Congo,0.4256,4881.406
+Cote d'Ivoire,0.3178,3601.006
+Democratic Republic of Congo,0.0969,808.133
+Djibouti,1.4192,2705.406
+Egypt,0.4719,10550.206
+Equatorial Guinea,1.0416,22604.873
+Eritrea,0.2811,1510.459
+Eswatini,6.1572,7738.975
+Ethiopia,0.4104,1729.927
+Gabon,2.0807,16562.413
+Gambia,0.4738,1561.767
+Ghana,0.5168,4227.63
+Guinea,0.2801,1998.926
+Guinea-Bissau,0.4268,1548.675
+Kenya,0.6385,2993.028
+Lesotho,1.5118,2851.153
+Liberia,0.1535,752.788
+Libya,7.5277,17881.509
+Madagascar,0.2306,1416.44
+Malawi,0.4426,1095.042
+Mali,0.1492,2014.306
+Mauritania,1.3618,3597.633
+Mauritius,20.2206,20292.745
+Morocco,3.4119,7485.013
+Mozambique,0.718,1136.103
+Namibia,6.6894,9541.808
+Niger,0.0373,926
+Nigeria,0.1244,5338.454
+Rwanda,0.9844,1854.211
+Saint Helena,33.7898,0
+Sao Tome and Principe,2.7951,3052.714
+Senegal,0.5242,2470.58
+Seychelles,44.2763,26382.287
+Sierra Leone,0.092,1390.3
+Somalia,0.1595,0
+South Africa,6.7688,12294.876
+South Sudan,0.1658,1569.888
+Sudan,0.1386,4466.507
+Tanzania,0.0621,2683.304
+Togo,0.453,1429.813
+Tunisia,9.3438,10849.297
+Uganda,0.3694,1697.707
+Western Sahara,0,0
+Zambia,1.7129,3689.251
+Zimbabwe,1.6105,1899.775
+Albania,11.6429,11803.431
+Andorra,58.49,0
+Austria,58.2309,45436.686
+Belarus,10.3782,17167.967
+Belgium,39.2143,42658.576
+Bosnia and Herzegovina,12.1921,11713.895
+Bulgaria,18.3411,18563.307
+Croatia,30.427,22669.797
+Cyprus,65.6238,32415.132
+Czechia,39.2042,32605.906
+Denmark,56.4658,46682.515
+Estonia,45.4088,29481.252
+Faeroe Islands,65.5309,0
+Finland,23.3552,40585.721
+France,52.9529,38605.671
+Germany,40.3463,45229.245
+Gibraltar,61.509,0
+Greece,47.6294,24574.382
+Guernsey,0,0
+Hungary,21.7091,26777.561
+Iceland,55.5775,46482.958
+Ireland,33.411,67335.293
+Isle of Man,45.1064,0
+Italy,38.2308,35220.084
+Jersey,0,0
+Kosovo,15.2674,9795.834
+Latvia,49.8895,25063.846
+Liechtenstein,51.1745,0
+Lithuania,45.0091,29524.265
+Luxembourg,45.8613,94277.965
+Malta,21.7897,36513.323
+Moldova,19.2981,5189.972
+Monaco,40.0071,0
+Montenegro,44.7269,16409.288
+Netherlands,48.293,48472.545
+North Macedonia,16.3174,13111.214
+Norway,27.0726,64800.057
+Poland,16.46,27216.445
+Portugal,53.4554,27936.896
+Romania,16.9338,23313.199
+Russia,14.3461,24765.954
+San Marino,61.9925,56861.47
+Serbia,34.5115,14048.881
+Slovakia,48.2623,30155.152
+Slovenia,56.3629,31400.84
+Spain,28.2838,34272.36
+Sweden,24.7293,46949.283
+Switzerland,47.5078,57410.166
+Ukraine,12.5868,7894.393
+United Kingdom,35.185,39753.244
+Vatican,5.6751,0
+Anguilla,24.5414,0
+Antigua and Barbuda,9.7597,21490.943
+Aruba,41.4367,35973.781
+Bahamas,9.1465,27717.847
+Barbados,36.4794,16978.068
+Belize,17.2197,7824.362
+Bermuda,28.3867,50669.315
+Bonaire Sint Eustatius and Saba,42.5597,0
+British Virgin Islands,23.4721,0
+Canada,11.2399,44017.591
+Cayman Islands,45.2169,49903.029
+Costa Rica,21.7891,15524.995
+Cuba,9.8719,0
+Curacao,23.8471,0
+Dominica,21.7464,9673.367
+Dominican Republic,5.8123,14600.861
+El Salvador,3.1958,7292.458
+Greenland,21.2844,0
+Grenada,15.6777,13593.877
+Guatemala,6.4003,7423.808
+Haiti,0.2949,1653.173
+Honduras,4.443,4541.795
+Jamaica,5.373,8193.571
+Mexico,5.5964,17336.469
+Montserrat,31.7636,0
+Nicaragua,0.2203,5321.444
+Panama,22.6971,22267.037
+Puerto Rico,0,35044.67
+Saint Kitts and Nevis,13.7483,24654.385
+Saint Lucia,16.4301,12951.839
+Saint Pierre and Miquelon,54.19,0
+Saint Vincent and the Grenadines,9.0557,10727.146
+Sint Maarten (Dutch part),0,36327.232
+Trinidad and Tobago,12.0066,28763.071
+Turks and Caicos Islands,14.142,0
+United States,28.6507,54225.446
+United States Virgin Islands,0,0
+Australia,39.5283,44648.71
+Cook Islands,37.5757,0
+Fiji,7.3806,8702.975
+French Polynesia,25.2286,0
+Guam,0,0
+Kiribati,2.6615,1981.132
+Marshall Islands,36.3971,3819.202
+Micronesia (country),14.1376,3299.464
+Nauru,36.8526,12895.635
+New Caledonia,25.8218,0
+New Zealand,34.885,36085.843
+Niue,0,0
+Northern Mariana Islands,0,0
+Palau,30.2929,13240.405
+Papua New Guinea,0.4524,3823.194
+Pitcairn,0,0
+Samoa,7.2868,6021.557
+Solomon Islands,3.0436,2205.923
+Tokelau,0,0
+Tonga,15.2636,5425.621
+Tuvalu,0.1785,3575.104
+Vanuatu,3.752,2921.909
+Wallis and Futuna,6.5451,0
+Argentina,21.4489,18933.907
+Bolivia,9.1765,6885.829
+Brazil,16.1898,14103.452
+Chile,23.7942,22767.037
+Colombia,12.2434,13254.949
+Ecuador,5.6528,10581.936
+Falkland Islands,51.2752,0
+Guyana,8.8689,7435.047
+Paraguay,10.6886,8827.01
+Peru,12.297,12236.706
+Suriname,13.2326,13767.119
+Uruguay,28.7908,20551.409
+Venezuela,1.9323,16745.022
